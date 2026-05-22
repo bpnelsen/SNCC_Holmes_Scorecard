@@ -1,0 +1,5790 @@
+[
+  {
+    "id": "OWII",
+    "name": "Oquirrh West",
+    "title": "OQUIRRH WEST \u2014 All Product Lines",
+    "profitShares": [
+      {
+        "name": "SNHH-OW, LLC",
+        "percent": 0.4168
+      },
+      {
+        "name": "SN Oquirrh, LLC",
+        "percent": 0.083
+      },
+      {
+        "name": "Patrick & Spencer",
+        "percent": 0.5
+      }
+    ],
+    "data": {
+      "sales_sf": {
+        "jan": {
+          "plan": 3.0,
+          "actual": 8.0
+        },
+        "feb": {
+          "plan": 3.0,
+          "actual": 1.0
+        },
+        "mar": {
+          "plan": 3.0,
+          "actual": 3.0
+        },
+        "apr": {
+          "plan": 2.0,
+          "actual": 3.0
+        },
+        "may": {
+          "plan": 2.0,
+          "actual": 3.0
+        },
+        "jun": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 3.0,
+          "actual": 0.0
+        }
+      },
+      "sales_th": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "starts_sf": {
+        "jan": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 3.0,
+          "actual": 2.0
+        },
+        "mar": {
+          "plan": 2.0,
+          "actual": 6.0
+        },
+        "apr": {
+          "plan": 2.0,
+          "actual": 2.0
+        },
+        "may": {
+          "plan": 6.0,
+          "actual": 2.0
+        },
+        "jun": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 6.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 8.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 1.0,
+          "actual": 0.0
+        }
+      },
+      "starts_th": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "closings_sf": {
+        "jan": {
+          "plan": 13.0,
+          "actual": 11.0
+        },
+        "feb": {
+          "plan": 3.0,
+          "actual": 3.0
+        },
+        "mar": {
+          "plan": 1.0,
+          "actual": 1.0
+        },
+        "apr": {
+          "plan": 2.0,
+          "actual": 3.0
+        },
+        "may": {
+          "plan": 1.0,
+          "actual": 2.0
+        },
+        "jun": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 4.0,
+          "actual": 0.0
+        }
+      },
+      "closings_th": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "revenue": {
+        "jan": {
+          "plan": 8928476.5,
+          "actual": 8084966.0
+        },
+        "feb": {
+          "plan": 2060417.65,
+          "actual": 1973664.0
+        },
+        "mar": {
+          "plan": 686805.88,
+          "actual": 680000.0
+        },
+        "apr": {
+          "plan": 1373611.77,
+          "actual": 1517397.0
+        },
+        "may": {
+          "plan": 686805.88,
+          "actual": null
+        },
+        "jun": {
+          "plan": 686805.88,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 2060417.65,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 686805.88,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 2747223.54,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 2365286.14,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 2365286.14,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 2556254.84,
+          "actual": 0.0
+        }
+      },
+      "cogs": {
+        "jan": {
+          "plan": -6607636.37,
+          "actual": 5983387.0
+        },
+        "feb": {
+          "plan": -1524839.16,
+          "actual": null
+        },
+        "mar": {
+          "plan": -508279.72,
+          "actual": 601408.04
+        },
+        "apr": {
+          "plan": -1016559.44,
+          "actual": 1280452.0
+        },
+        "may": {
+          "plan": -508279.72,
+          "actual": null
+        },
+        "jun": {
+          "plan": -508279.72,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -1524839.16,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -508279.72,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -2033118.88,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": -1722519.22,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -1722519.22,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -1877819.05,
+          "actual": 0.0
+        }
+      },
+      "soft_costs": {
+        "jan": {
+          "plan": -734289.67,
+          "actual": null
+        },
+        "feb": {
+          "plan": -169451.46,
+          "actual": null
+        },
+        "mar": {
+          "plan": -56483.82,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": -112967.64,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -56483.82,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -56483.82,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -169451.46,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -56483.82,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -225935.28,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": -189090.67,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -189090.67,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -207512.98,
+          "actual": 0.0
+        }
+      },
+      "mgmt_fees": {
+        "jan": {
+          "plan": -535708.59,
+          "actual": null
+        },
+        "feb": {
+          "plan": -123625.06,
+          "actual": null
+        },
+        "mar": {
+          "plan": -41208.35,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": -82416.71,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -41208.35,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -41208.35,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -123625.06,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -41208.35,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -164833.41,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": -141917.17,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -141917.17,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -153375.29,
+          "actual": 0.0
+        }
+      },
+      "warranty": {
+        "jan": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "advertising": {
+        "jan": {
+          "plan": -33500.0,
+          "actual": null
+        },
+        "feb": {
+          "plan": -8500.0,
+          "actual": null
+        },
+        "mar": {
+          "plan": -3500.0,
+          "actual": 1800.0
+        },
+        "apr": {
+          "plan": -6000.0,
+          "actual": 8610.0
+        },
+        "may": {
+          "plan": -3500.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -3500.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -8500.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -3500.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -11000.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -11000.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -11000.0,
+          "actual": -1000.0
+        },
+        "dec": {
+          "plan": -11000.0,
+          "actual": -1000.0
+        }
+      },
+      "model_home": {
+        "jan": {
+          "plan": -21000.0,
+          "actual": null
+        },
+        "feb": {
+          "plan": -11000.0,
+          "actual": null
+        },
+        "mar": {
+          "plan": -9000.0,
+          "actual": 7694.639999999999
+        },
+        "apr": {
+          "plan": -10000.0,
+          "actual": 4980.07
+        },
+        "may": {
+          "plan": -9000.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -9000.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -11000.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -9000.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -12000.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -12000.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -12000.0,
+          "actual": -8000.0
+        },
+        "dec": {
+          "plan": -12000.0,
+          "actual": -8000.0
+        }
+      },
+      "prof_services": {
+        "jan": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "feb": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "mar": {
+          "plan": -1000.0,
+          "actual": 585.0
+        },
+        "apr": {
+          "plan": -1000.0,
+          "actual": 3179.26
+        },
+        "may": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -1000.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -1000.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -1000.0,
+          "actual": -1000.0
+        },
+        "dec": {
+          "plan": -1000.0,
+          "actual": -1000.0
+        }
+      },
+      "other_ga": {
+        "jan": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "feb": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "mar": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -50.0,
+          "actual": 27129.170000000002
+        },
+        "may": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -50.0,
+          "actual": -50.0
+        },
+        "dec": {
+          "plan": -50.0,
+          "actual": -50.0
+        }
+      },
+      "paper_sf_land": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "paper_sf_starts": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "paper_th_land": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "paper_th_starts": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "dev_sf_finished": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "dev_sf_starts_neg": {
+        "jan": {
+          "plan": -1.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -3.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -2.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": -2.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -1.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -1.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -1.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": -1.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -3.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": -3.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -1.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -1.0,
+          "actual": 0.0
+        }
+      },
+      "dev_th_finished": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "dev_th_starts_neg": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "spec_sf_sales": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_sf_starts": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_th_sales": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_th_starts": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "equity_dist": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "beg": {
+        "paper_sf_beg": {
+          "plan": 184.0,
+          "actual": 184.0
+        },
+        "paper_th_beg": {
+          "plan": 20.0,
+          "actual": 20.0
+        },
+        "dev_sf_beg": {
+          "plan": 22.0,
+          "actual": 22.0
+        },
+        "dev_th_beg": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "spec_sf_beg": {
+          "plan": null,
+          "actual": 3.0
+        },
+        "spec_th_beg": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "equity_beg": {
+          "plan": null,
+          "actual": 3903037.62
+        }
+      }
+    }
+  },
+  {
+    "id": "TOM",
+    "name": "Towns on Main",
+    "title": "TOWNS ON MAIN",
+    "profitShares": [
+      {
+        "name": "SN Alloc \u2014 Partner 1",
+        "percent": 0.5
+      },
+      {
+        "name": "SN Alloc \u2014 Partner 2",
+        "percent": 0.5
+      }
+    ],
+    "data": {
+      "sales_sf": {
+        "jan": {
+          "plan": 2.0,
+          "actual": 1.0
+        },
+        "feb": {
+          "plan": 2.0,
+          "actual": 2.0
+        },
+        "mar": {
+          "plan": 2.0,
+          "actual": 2.0
+        },
+        "apr": {
+          "plan": 2.0,
+          "actual": 3.0
+        },
+        "may": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 1.0,
+          "actual": 0.0
+        }
+      },
+      "sales_th": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "starts_sf": {
+        "jan": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 5.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 5.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "starts_th": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "closings_sf": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 1.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 1.0
+        },
+        "apr": {
+          "plan": 2.0,
+          "actual": 3.0
+        },
+        "may": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "closings_th": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "revenue": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 450000.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 1302276.0
+        },
+        "apr": {
+          "plan": 886095.33,
+          "actual": 1317847.0
+        },
+        "may": {
+          "plan": 1329143.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": 443047.67,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 1329143.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 443047.67,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "cogs": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 1231775.22
+        },
+        "apr": {
+          "plan": -664082.35,
+          "actual": 1195234.0
+        },
+        "may": {
+          "plan": -996123.53,
+          "actual": null
+        },
+        "jun": {
+          "plan": -332041.18,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -996123.53,
+          "actual": null
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -332041.18,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "soft_costs": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -98252.25,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -147378.38,
+          "actual": null
+        },
+        "jun": {
+          "plan": -49126.13,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -147378.38,
+          "actual": null
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -49126.13,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "mgmt_fees": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -35443.81,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -53165.72,
+          "actual": null
+        },
+        "jun": {
+          "plan": -17721.91,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -53165.72,
+          "actual": null
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -17721.91,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "warranty": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -3000.0,
+          "actual": null
+        },
+        "may": {
+          "plan": -4500.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -1500.0,
+          "actual": null
+        },
+        "jul": {
+          "plan": -4500.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -1500.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": null
+        }
+      },
+      "advertising": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -2100.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -2100.0,
+          "actual": 6810.0
+        },
+        "apr": {
+          "plan": -5100.0,
+          "actual": 8610.0
+        },
+        "may": {
+          "plan": -6600.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -3600.0,
+          "actual": null
+        },
+        "jul": {
+          "plan": -6600.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -2100.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -3600.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -2100.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -2100.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -2100.0,
+          "actual": null
+        }
+      },
+      "model_home": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -850.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -850.0,
+          "actual": 2903.84
+        },
+        "apr": {
+          "plan": -850.0,
+          "actual": 5355.04
+        },
+        "may": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "jul": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -850.0,
+          "actual": null
+        }
+      },
+      "prof_services": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -50.0,
+          "actual": 1690.0
+        },
+        "apr": {
+          "plan": -50.0,
+          "actual": 400.0
+        },
+        "may": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "jul": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -50.0,
+          "actual": null
+        }
+      },
+      "other_ga": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -3000.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -3000.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -9000.0,
+          "actual": 2404.26
+        },
+        "may": {
+          "plan": -12000.0,
+          "actual": null
+        },
+        "jun": {
+          "plan": -6000.0,
+          "actual": null
+        },
+        "jul": {
+          "plan": -12000.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -3000.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -6000.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -3000.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -3000.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -3000.0,
+          "actual": null
+        }
+      },
+      "paper_sf_land": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "paper_sf_starts": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "paper_th_land": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "paper_th_starts": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_sf_finished": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_sf_starts_neg": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_th_finished": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_th_starts_neg": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "spec_sf_sales": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_sf_starts": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_th_sales": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "spec_th_starts": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "equity_dist": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "beg": {
+        "paper_sf_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "paper_th_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "dev_sf_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "dev_th_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "spec_sf_beg": {
+          "plan": null,
+          "actual": 3.0
+        },
+        "spec_th_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "equity_beg": {
+          "plan": null,
+          "actual": 3903037.62
+        }
+      }
+    }
+  },
+  {
+    "id": "LEGACY",
+    "name": "Holmes Sand Hollow \u2014 Legacy",
+    "title": "HOLMES SAND HOLLOW \u2014 Legacy / Dixie Heights",
+    "profitShares": [
+      {
+        "name": "SN Alloc \u2014 Partner 1",
+        "percent": 0.5
+      },
+      {
+        "name": "SN Alloc \u2014 Partner 2",
+        "percent": 0.5
+      }
+    ],
+    "data": {
+      "sales_sf": {
+        "jan": {
+          "plan": 1.0,
+          "actual": -1.0
+        },
+        "feb": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 2.0,
+          "actual": 1.0
+        },
+        "may": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 2.0,
+          "actual": 0.0
+        }
+      },
+      "sales_th": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "starts_sf": {
+        "jan": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 3.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 1.0,
+          "actual": 0.0
+        }
+      },
+      "starts_th": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "closings_sf": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 3.0,
+          "actual": 0.0
+        }
+      },
+      "closings_th": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "revenue": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 515000.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 515000.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 515000.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 515000.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 515000.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 515000.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 1545000.0,
+          "actual": 0.0
+        }
+      },
+      "cogs": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": -406399.79,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -406399.79,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -406399.79,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -406399.79,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -406399.79,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -406399.79,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -1219199.37,
+          "actual": 0.0
+        }
+      },
+      "soft_costs": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": -24100.11,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -24100.11,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -24100.11,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -24100.11,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -24100.11,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -24100.11,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -72300.33,
+          "actual": 0.0
+        }
+      },
+      "mgmt_fees": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": -30900.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -30900.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -30900.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -30900.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": -30900.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -30900.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -92700.0,
+          "actual": 0.0
+        }
+      },
+      "warranty": {
+        "jan": {
+          "plan": -1000.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -1000.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -2500.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -2500.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -2500.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -2500.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -2500.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -1000.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -2500.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -5500.0,
+          "actual": null
+        }
+      },
+      "advertising": {
+        "jan": {
+          "plan": -8000.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -8000.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -8000.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -9500.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -9500.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -9500.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -9500.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -8000.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -9500.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -8000.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -9500.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -12500.0,
+          "actual": null
+        }
+      },
+      "model_home": {
+        "jan": {
+          "plan": -850.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -850.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -850.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -850.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -850.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -850.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -850.0,
+          "actual": null
+        }
+      },
+      "prof_services": {
+        "jan": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -50.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -50.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -50.0,
+          "actual": null
+        }
+      },
+      "other_ga": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": -9900.0,
+          "actual": null
+        },
+        "apr": {
+          "plan": -12900.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": -12900.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": -12900.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": -12900.0,
+          "actual": null
+        },
+        "aug": {
+          "plan": -9900.0,
+          "actual": null
+        },
+        "sep": {
+          "plan": -12900.0,
+          "actual": null
+        },
+        "oct": {
+          "plan": -9900.0,
+          "actual": null
+        },
+        "nov": {
+          "plan": -12900.0,
+          "actual": null
+        },
+        "dec": {
+          "plan": -18900.0,
+          "actual": null
+        }
+      },
+      "paper_sf_land": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "paper_sf_starts": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "paper_th_land": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "paper_th_starts": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_sf_finished": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_sf_starts_neg": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_th_finished": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_th_starts_neg": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "spec_sf_sales": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_sf_starts": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_th_sales": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "spec_th_starts": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "equity_dist": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "beg": {
+        "paper_sf_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "paper_th_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "dev_sf_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "dev_th_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "spec_sf_beg": {
+          "plan": null,
+          "actual": 3.0
+        },
+        "spec_th_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "equity_beg": {
+          "plan": null,
+          "actual": 3903037.62
+        }
+      }
+    }
+  },
+  {
+    "id": "ALAIA",
+    "name": "Holmes Alaia",
+    "title": "HOLMES ALAIA, LLC",
+    "profitShares": [
+      {
+        "name": "SNHH-Alaia, LLC",
+        "percent": 0.5
+      }
+    ],
+    "data": {
+      "sales_sf": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 2.0,
+          "actual": 0.0
+        }
+      },
+      "sales_th": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "starts_sf": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 6.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 4.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 1.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 5.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 2.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "starts_th": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "closings_sf": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 6.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 3.0,
+          "actual": 0.0
+        }
+      },
+      "closings_th": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "revenue": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 3122400.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 1349700.0,
+          "actual": 0.0
+        }
+      },
+      "cogs": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -2461744.74,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -1064912.37,
+          "actual": 0.0
+        }
+      },
+      "soft_costs": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -204992.295,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -96502.905,
+          "actual": 0.0
+        }
+      },
+      "mgmt_fees": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": -187344.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": -80982.0,
+          "actual": 0.0
+        }
+      },
+      "warranty": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "advertising": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": -1000.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": -1000.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": -1000.0
+        },
+        "oct": {
+          "plan": -1000.0,
+          "actual": -1000.0
+        },
+        "nov": {
+          "plan": -16000.0,
+          "actual": -1000.0
+        },
+        "dec": {
+          "plan": -8500.0,
+          "actual": -1000.0
+        }
+      },
+      "model_home": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": -4500.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": -8000.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": -8000.0
+        },
+        "oct": {
+          "plan": -8000.0,
+          "actual": -8000.0
+        },
+        "nov": {
+          "plan": -14000.0,
+          "actual": -8000.0
+        },
+        "dec": {
+          "plan": -11000.0,
+          "actual": -8000.0
+        }
+      },
+      "prof_services": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": -1000.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": -1000.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": -1000.0
+        },
+        "oct": {
+          "plan": -1000.0,
+          "actual": -1000.0
+        },
+        "nov": {
+          "plan": -1000.0,
+          "actual": -1000.0
+        },
+        "dec": {
+          "plan": -1000.0,
+          "actual": -1000.0
+        }
+      },
+      "other_ga": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": -50.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": -50.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": -50.0
+        },
+        "oct": {
+          "plan": -50.0,
+          "actual": -50.0
+        },
+        "nov": {
+          "plan": -50.0,
+          "actual": -50.0
+        },
+        "dec": {
+          "plan": -50.0,
+          "actual": -50.0
+        }
+      },
+      "paper_sf_land": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "paper_sf_starts": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "paper_th_land": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "paper_th_starts": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "dev_sf_finished": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "dev_sf_starts_neg": {
+        "jan": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": 0.0,
+          "actual": 0.0
+        }
+      },
+      "dev_th_finished": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "dev_th_starts_neg": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": null
+        },
+        "mar": {
+          "plan": null,
+          "actual": null
+        },
+        "apr": {
+          "plan": null,
+          "actual": null
+        },
+        "may": {
+          "plan": null,
+          "actual": null
+        },
+        "jun": {
+          "plan": null,
+          "actual": null
+        },
+        "jul": {
+          "plan": null,
+          "actual": null
+        },
+        "aug": {
+          "plan": null,
+          "actual": null
+        },
+        "sep": {
+          "plan": null,
+          "actual": null
+        },
+        "oct": {
+          "plan": null,
+          "actual": null
+        },
+        "nov": {
+          "plan": null,
+          "actual": null
+        },
+        "dec": {
+          "plan": null,
+          "actual": null
+        }
+      },
+      "spec_sf_sales": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_sf_starts": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_th_sales": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "spec_th_starts": {
+        "jan": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "equity_dist": {
+        "jan": {
+          "plan": null,
+          "actual": null
+        },
+        "feb": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "mar": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "apr": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "may": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jun": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "jul": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "aug": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "sep": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "oct": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "nov": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "dec": {
+          "plan": null,
+          "actual": 0.0
+        }
+      },
+      "beg": {
+        "paper_sf_beg": {
+          "plan": 105.0,
+          "actual": 105.0
+        },
+        "paper_th_beg": {
+          "plan": 95.0,
+          "actual": 95.0
+        },
+        "dev_sf_beg": {
+          "plan": 0.0,
+          "actual": 0.0
+        },
+        "dev_th_beg": {
+          "plan": null,
+          "actual": null
+        },
+        "spec_sf_beg": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "spec_th_beg": {
+          "plan": null,
+          "actual": 0.0
+        },
+        "equity_beg": {
+          "plan": null,
+          "actual": 3903037.62
+        }
+      }
+    }
+  }
+]
