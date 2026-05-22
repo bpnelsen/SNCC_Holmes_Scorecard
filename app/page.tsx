@@ -1,6 +1,7 @@
 "use client";
 
 import { Fragment } from "react";
+import Link from "next/link";
 import { useForecast } from "./store/useForecast";
 import { ROWS } from "./lib/schema";
 import { MONTHS, MONTH_LABELS } from "./lib/types";
@@ -111,7 +112,8 @@ export default function DashboardPage() {
       </div>
 
       <div>
-        <h2 className="text-lg font-semibold text-slate-900 mb-3">By Development — YTD</h2>
+        <h2 className="text-lg font-semibold text-slate-900 mb-1">By Development — YTD</h2>
+        <p className="text-xs text-slate-500 mb-3">Click a card to drill into the development&rsquo;s full income statement.</p>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-4">
           {devs.map((dev) => {
             const niRow = ROWS.find((r) => r.key === "net_income")!;
@@ -133,8 +135,15 @@ export default function DashboardPage() {
             const nmPctPlan = rowYearTotal(dev, nmPctRow, "plan");
             const nmPctAct = rowYearTotal(dev, nmPctRow, "actual");
             return (
-              <div key={dev.id} className="bg-white rounded-lg shadow-sm p-4 border border-slate-200">
-                <div className="font-semibold text-slate-900">{dev.name}</div>
+              <Link
+                key={dev.id}
+                href={`/development/${dev.id}`}
+                className="bg-white rounded-lg shadow-sm p-4 border border-slate-200 hover:border-blue-400 hover:shadow transition-all cursor-pointer block"
+              >
+                <div className="flex items-center justify-between">
+                  <div className="font-semibold text-slate-900">{dev.name}</div>
+                  <span className="text-blue-600 text-sm" aria-hidden="true">→</span>
+                </div>
                 <div className="text-xs text-slate-500 mb-3">{dev.title}</div>
                 <dl className="grid grid-cols-3 gap-3 text-sm">
                   <div>
@@ -180,7 +189,7 @@ export default function DashboardPage() {
                     </dd>
                   </div>
                 </dl>
-              </div>
+              </Link>
             );
           })}
         </div>

@@ -2,6 +2,7 @@
 
 import { useForecast } from "../store/useForecast";
 import { fmtPercent, parseNumber } from "../lib/format";
+import Breadcrumbs from "../components/Breadcrumbs";
 
 export default function SettingsPage() {
   const devs = useForecast((s) => s.developments);
@@ -14,6 +15,7 @@ export default function SettingsPage() {
 
   return (
     <div className="space-y-6 max-w-4xl">
+      <Breadcrumbs items={[{ label: "Dashboard", href: "/" }, { label: "Settings" }]} />
       <div>
         <h1 className="text-2xl font-semibold text-slate-900">Settings</h1>
         <p className="text-slate-600 mt-1">

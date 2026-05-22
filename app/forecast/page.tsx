@@ -4,6 +4,7 @@ import { useState } from "react";
 import { useForecast } from "../store/useForecast";
 import DevTabs from "../components/DevTabs";
 import MonthGrid from "../components/MonthGrid";
+import Breadcrumbs from "../components/Breadcrumbs";
 
 export default function ForecastPage() {
   const devs = useForecast((s) => s.developments);
@@ -13,6 +14,7 @@ export default function ForecastPage() {
 
   return (
     <div className="space-y-4">
+      <Breadcrumbs items={[{ label: "Dashboard", href: "/" }, { label: "Forecasting Template" }]} />
       <div>
         <h1 className="text-2xl font-semibold text-slate-900">Forecasting Template</h1>
         <p className="text-slate-600 mt-1">
