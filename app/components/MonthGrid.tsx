@@ -4,7 +4,7 @@ import { useForecast } from "../store/useForecast";
 import { ROWS } from "../lib/schema";
 import { MONTHS, MONTH_LABELS, ACTUALS_LOCKED_THROUGH, type Series } from "../lib/types";
 import { rowValue, rowYearTotal } from "../lib/calc";
-import { fmtCount, fmtCurrency } from "../lib/format";
+import { fmtCount, fmtCurrency, fmtPercentCell } from "../lib/format";
 import EditableCell from "./EditableCell";
 
 export default function MonthGrid({
@@ -58,7 +58,10 @@ export default function MonthGrid({
 
             const isDerived = row.kind === "derived";
             const unit = row.unit ?? "currency";
-            const fmt = unit === "currency" ? fmtCurrency : fmtCount;
+            const fmt =
+              unit === "currency" ? fmtCurrency :
+              unit === "percent" ? fmtPercentCell :
+              fmtCount;
             const total = rowYearTotal(dev, row, series);
 
             // Special inline editor for "beg" rows in Jan (the seeded beginning balance).

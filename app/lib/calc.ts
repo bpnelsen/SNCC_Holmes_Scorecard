@@ -40,6 +40,16 @@ export function derive(
 
     case "gross_margin":
       return g("revenue") + g("cogs"); // cogs stored negative
+    case "gross_margin_pct": {
+      const rev = g("revenue");
+      if (rev === 0) return 0;
+      return derive(dev, "gross_margin", month, series) / rev;
+    }
+    case "net_margin_pct": {
+      const rev = g("revenue");
+      if (rev === 0) return 0;
+      return derive(dev, "net_income", month, series) / rev;
+    }
     case "contribution_margin":
       return g("revenue") + g("cogs") + g("soft_costs") + g("mgmt_fees");
     case "total_op_costs":
@@ -115,6 +125,18 @@ export function rowYearTotal(
   // Inventory "beg" rows should show Jan's beg balance.
   if (row.derived?.endsWith("_end")) return rowValue(dev, row, "dec", series);
   if (row.derived?.endsWith("_beg")) return rowValue(dev, row, "jan", series);
+
+  // Percent rows: compute as (YTD numerator) / (YTD revenue), not sum of monthly percents.
+  if (row.derived === "gross_margin_pct" || row.derived === "net_margin_pct") {
+    const revRow = { kind: "input" as const, inputKey: "revenue" as InputKey };
+    const ytdRev = SUM(...MONTHS.map((m) => rowValue(dev, revRow, m, series)));
+    if (ytdRev === 0) return 0;
+    const numKey = row.derived === "gross_margin_pct" ? "gross_margin" : "net_income";
+    const numRow = { kind: "derived" as const, derived: numKey };
+    const ytdNum = SUM(...MONTHS.map((m) => rowValue(dev, numRow, m, series)));
+    return ytdNum / ytdRev;
+  }
+
   return SUM(...MONTHS.map((m) => rowValue(dev, row, m, series)));
 }
 
@@ -134,4 +156,41 @@ export function rollupAcrossDevs(
   const row = rowsFinder(rowKey);
   if (!row) return 0;
   return devs.reduce((acc, dev) => acc + rowValue(dev, row, month, series), 0);
+}
+
+// Sum a row's value across developments for a given month.
+// Percent rows are recombined as (sum of numerator) / (sum of revenue) across the devs.
+export function rollupMonth(
+  devs: Development[],
+  row: { kind: string; inputKey?: InputKey; derived?: string },
+  month: Month,
+  series: Series
+): number {
+  if (row.derived === "gross_margin_pct" || row.derived === "net_margin_pct") {
+    const revRow = { kind: "input" as const, inputKey: "revenue" as InputKey };
+    const numKey = row.derived === "gross_margin_pct" ? "gross_margin" : "net_income";
+    const numRow = { kind: "derived" as const, derived: numKey };
+    const rev = devs.reduce((a, d) => a + rowValue(d, revRow, month, series), 0);
+    if (rev === 0) return 0;
+    const num = devs.reduce((a, d) => a + rowValue(d, numRow, month, series), 0);
+    return num / rev;
+  }
+  return devs.reduce((acc, dev) => acc + rowValue(dev, row, month, series), 0);
+}
+
+export function rollupYear(
+  devs: Development[],
+  row: { kind: string; inputKey?: InputKey; derived?: string },
+  series: Series
+): number {
+  if (row.derived === "gross_margin_pct" || row.derived === "net_margin_pct") {
+    const revRow = { kind: "input" as const, inputKey: "revenue" as InputKey };
+    const numKey = row.derived === "gross_margin_pct" ? "gross_margin" : "net_income";
+    const numRow = { kind: "derived" as const, derived: numKey };
+    const rev = devs.reduce((a, d) => a + rowYearTotal(d, revRow, series), 0);
+    if (rev === 0) return 0;
+    const num = devs.reduce((a, d) => a + rowYearTotal(d, numRow, series), 0);
+    return num / rev;
+  }
+  return devs.reduce((acc, dev) => acc + rowYearTotal(dev, row, series), 0);
 }

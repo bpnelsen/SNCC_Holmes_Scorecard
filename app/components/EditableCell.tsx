@@ -11,11 +11,13 @@ export default function EditableCell({
   isExpense,
 }: {
   value: number | null;
-  unit: "count" | "currency";
+  unit: "count" | "currency" | "percent";
   onCommit: (v: number | null) => void;
   locked?: boolean;
   isExpense?: boolean;
 }) {
+  // Percent-unit inputs never reach EditableCell in current usage (percents are derived),
+  // but format defensively in case that changes.
   const display = unit === "currency" ? fmtCurrency(value) : fmtCount(value);
   const [editing, setEditing] = useState(false);
   const [draft, setDraft] = useState<string>("");

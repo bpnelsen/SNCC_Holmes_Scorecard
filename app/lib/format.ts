@@ -19,6 +19,12 @@ export function fmtPercent(n: number): string {
   return `${(n * 100).toFixed(2)}%`;
 }
 
+export function fmtPercentCell(n: number | null | undefined): string {
+  if (n === null || n === undefined || Number.isNaN(n)) return "";
+  if (n === 0) return "—";
+  return `${(n * 100).toFixed(1)}%`;
+}
+
 export function parseNumber(s: string): number | null {
   const trimmed = s.trim().replace(/,/g, "").replace(/[()]/g, (m) => (m === "(" ? "-" : ""));
   if (trimmed === "") return null;

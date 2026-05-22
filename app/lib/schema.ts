@@ -24,7 +24,7 @@ export type RowDef = {
   derived?: string; // identifier for the calc.ts function
   indent?: boolean;
   isExpense?: boolean; // expenses entered as positive but stored as negative
-  unit?: "count" | "currency";
+  unit?: "count" | "currency" | "percent";
 };
 
 export const SECTIONS = {
@@ -51,6 +51,7 @@ export const ROWS: RowDef[] = [
   { key: "revenue", label: "Revenue", kind: "input", category: "income", inputKey: "revenue", unit: "currency" },
   { key: "cogs", label: "Cost of Goods Sold", kind: "input", category: "income", inputKey: "cogs", isExpense: true, unit: "currency" },
   { key: "gross_margin", label: "Gross Margin", kind: "derived", category: "income", derived: "gross_margin", unit: "currency" },
+  { key: "gross_margin_pct", label: "Gross Margin %", kind: "derived", category: "income", derived: "gross_margin_pct", unit: "percent" },
   { key: "soft_costs", label: "Soft Costs", kind: "input", category: "income", inputKey: "soft_costs", isExpense: true, unit: "currency" },
   { key: "mgmt_fees", label: "Management Fees", kind: "input", category: "income", inputKey: "mgmt_fees", isExpense: true, unit: "currency" },
   { key: "contribution_margin", label: "Contribution Margin", kind: "derived", category: "income", derived: "contribution_margin", unit: "currency" },
@@ -61,6 +62,7 @@ export const ROWS: RowDef[] = [
   { key: "other_ga", label: "Other G&A", kind: "input", category: "opcosts", inputKey: "other_ga", isExpense: true, unit: "currency" },
   { key: "total_op_costs", label: "Total Entity Op Costs", kind: "derived", category: "opcosts", derived: "total_op_costs", unit: "currency" },
   { key: "net_income", label: "NET INCOME", kind: "derived", category: "result", derived: "net_income", unit: "currency" },
+  { key: "net_margin_pct", label: "Net Margin %", kind: "derived", category: "result", derived: "net_margin_pct", unit: "percent" },
 
   { key: "sec_profitshare", label: SECTIONS.profitshare, kind: "section", category: "profitshare" },
   { key: "total_sn_share", label: "Total SN Profit Share", kind: "derived", category: "profitshare", derived: "total_sn_share", unit: "currency" },

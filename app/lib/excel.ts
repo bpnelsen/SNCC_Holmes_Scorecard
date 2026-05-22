@@ -1,12 +1,16 @@
 import * as XLSX from "xlsx";
 import { ROWS } from "./schema";
 import { MONTHS, MONTH_LABELS, type Development, type Series } from "./types";
-import { rowValue, rowYearTotal } from "./calc";
+import { rowValue, rowYearTotal, rollupMonth, rollupYear } from "./calc";
 
 type Cell = { v: number | string | null; t?: string; z?: string };
 
-function num(v: number, isCurrency: boolean): Cell {
-  return { v, t: "n", z: isCurrency ? '#,##0;(#,##0);"—"' : "#,##0" };
+function num(v: number, unit: "count" | "currency" | "percent"): Cell {
+  const z =
+    unit === "currency" ? '#,##0;(#,##0);"—"' :
+    unit === "percent" ? "0.0%" :
+    "#,##0";
+  return { v, t: "n", z };
 }
 
 function buildDevSheet(dev: Development): XLSX.WorkSheet {
@@ -29,20 +33,20 @@ function buildDevSheet(dev: Development): XLSX.WorkSheet {
       aoa.push([row.label]);
       return;
     }
-    const isCurrency = (row.unit ?? "currency") === "currency";
+    const unit = row.unit ?? "currency";
     const planYTD = rowYearTotal(dev, row, "plan");
     const actYTD = rowYearTotal(dev, row, "actual");
     const variance = actYTD - planYTD;
     const r: (string | Cell | null)[] = [
       row.label,
-      num(planYTD, isCurrency),
-      num(actYTD, isCurrency),
-      num(variance, isCurrency),
+      num(planYTD, unit),
+      num(actYTD, unit),
+      num(variance, unit),
     ];
     MONTHS.forEach((m) => {
       const p = rowValue(dev, row, m, "plan");
       const a = rowValue(dev, row, m, "actual");
-      r.push(num(p, isCurrency), num(a, isCurrency));
+      r.push(num(p, unit), num(a, unit));
     });
     aoa.push(r);
   });
@@ -51,7 +55,6 @@ function buildDevSheet(dev: Development): XLSX.WorkSheet {
   aoa.push([]);
   aoa.push(["SN PROFIT SHARE — Detail"]);
   dev.profitShares.forEach((share) => {
-    const isCurrency = true;
     const planTotal = MONTHS.reduce(
       (acc, m) => acc + rowValue(dev, ROWS.find((r) => r.key === "net_income")!, m, "plan") * share.percent,
       0
@@ -62,14 +65,14 @@ function buildDevSheet(dev: Development): XLSX.WorkSheet {
     );
     const r: (string | Cell | null)[] = [
       `${share.name} (${(share.percent * 100).toFixed(2)}%)`,
-      num(planTotal, isCurrency),
-      num(actTotal, isCurrency),
-      num(actTotal - planTotal, isCurrency),
+      num(planTotal, "currency"),
+      num(actTotal, "currency"),
+      num(actTotal - planTotal, "currency"),
     ];
     MONTHS.forEach((m) => {
       const niP = rowValue(dev, ROWS.find((r) => r.key === "net_income")!, m, "plan");
       const niA = rowValue(dev, ROWS.find((r) => r.key === "net_income")!, m, "actual");
-      r.push(num(niP * share.percent, isCurrency), num(niA * share.percent, isCurrency));
+      r.push(num(niP * share.percent, "currency"), num(niA * share.percent, "currency"));
     });
     aoa.push(r);
   });
@@ -92,9 +95,11 @@ function buildDashboardSheet(devs: Development[]): XLSX.WorkSheet {
     { rowKey: "revenue", label: "Revenue", unit: "currency" as const },
     { rowKey: "cogs", label: "Cost of Goods Sold", unit: "currency" as const },
     { rowKey: "gross_margin", label: "Gross Margin", unit: "currency" as const },
+    { rowKey: "gross_margin_pct", label: "Gross Margin %", unit: "percent" as const },
     { rowKey: "contribution_margin", label: "Contribution Margin", unit: "currency" as const },
     { rowKey: "total_op_costs", label: "Total Op Costs", unit: "currency" as const },
     { rowKey: "net_income", label: "Net Income", unit: "currency" as const },
+    { rowKey: "net_margin_pct", label: "Net Margin %", unit: "percent" as const },
     { rowKey: "total_sn_share", label: "SN Profit Share", unit: "currency" as const },
   ];
 
@@ -107,17 +112,12 @@ function buildDashboardSheet(devs: Development[]): XLSX.WorkSheet {
 
   KEY.forEach((m) => {
     const row = ROWS.find((r) => r.key === m.rowKey)!;
-    const isCurrency = m.unit === "currency";
-    ["plan", "actual"].forEach((s) => {
-      const series = s as Series;
+    (["plan", "actual"] as Series[]).forEach((series) => {
       const r: (string | Cell | null)[] = [m.label, series === "plan" ? "Plan" : "Actual"];
-      let ytd = 0;
       MONTHS.forEach((mo) => {
-        const v = devs.reduce((a, d) => a + rowValue(d, row, mo, series), 0);
-        ytd += v;
-        r.push(num(v, isCurrency));
+        r.push(num(rollupMonth(devs, row, mo, series), m.unit));
       });
-      r.push(num(ytd, isCurrency));
+      r.push(num(rollupYear(devs, row, series), m.unit));
       aoa.push(r);
     });
   });
